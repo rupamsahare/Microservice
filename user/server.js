@@ -5,5 +5,5 @@ const server = http.createServer(app)
 
 
 server.listen(3001,()=>{
-    console.log('user service run on 3001')
+    console.log('user service run on http://localhost:3001')
 })
